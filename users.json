@@ -1,0 +1,118 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin123",
+      "active": true,
+      "expire": "2025-09-10T00:00:00Z",
+      "currentDeviceId": "dev-fpg5z932k6r"
+    },
+    {
+      "username": "htb1",
+      "password": "htb1",
+      "active": true,
+      "expire": "2025-09-09T13:49:21.158Z",
+      "currentDeviceId": "dev-fpg5z932k6r"
+    },
+    {
+      "username": "htb",
+      "password": "htb",
+      "active": true,
+      "expire": "2025-09-09T14:35:09.149Z",
+      "currentDeviceId": "dev-fpg5z932k6r"
+    },
+    {
+      "username": "hatoki",
+      "password": "hotieubao",
+      "active": false,
+      "expire": "2025-09-11T02:30:13.919Z",
+      "currentDeviceId": null
+    }
+  ],
+  "steps": {
+    "1": {
+      "selector": "div[role='button'][aria-label='See options']",
+      "name": "Xem tuy chon"
+    },
+    "2": {
+      "selector": "div[role='button'][aria-label='Report profile']",
+      "name": "Bao cao ho so"
+    },
+    "3": {
+      "selector": "div[role='button'][aria-label='Something about this profile']",
+      "name": "Van de ho so nay"
+    },
+    "4": {
+      "selector": "div[role='button'][aria-label='Fake profile']",
+      "name": "Ho so gia mao"
+    },
+    "5": {
+      "selector": "div[role='button'][aria-label='Me']",
+      "name": "Toi"
+    },
+    "6": {
+      "selector": "div[role='button'][aria-label='Submit']",
+      "name": "Gui"
+    },
+    "7": {
+      "selector": "div[role='button'][aria-label='Next']",
+      "name": "Tiep theo"
+    },
+    "8": {
+      "selector": "div[role='button'][aria-label='Done']",
+      "name": "Hoan tat"
+    },
+    "9": {
+      "selector": "div[role='button'][aria-label='Problem involving someone under 18']",
+      "name": "Van de lien quan duoi 18"
+    },
+    "10": {
+      "selector": "div[role='button'][aria-label='Bullying or harassment']",
+      "name": "Bat nat quay roi"
+    },
+    "11": {
+      "selector": "div[role='button'][aria-label='Bullying, harassment or abuse']",
+      "name": "Bat nat quay roi lam dung"
+    },
+    "12": {
+      "selector": "div[role='button'][aria-label='Scam, fraud or false information']",
+      "name": "Lua dao gian lan thong tin sai lech"
+    },
+    "13": {
+      "selector": "div[role='button'][aria-label='Fraud or scam']",
+      "name": "Gian lan lua dao"
+    },
+    "14": {
+      "selector": "div[role='button'][aria-label='Selling or promoting restricted items']",
+      "name": "Ban hoac quang ba mat hang han che"
+    },
+    "15": {
+      "selector": "div[role='button'][aria-label='Weapons']",
+      "name": "Vu khi"
+    },
+    "16": {
+      "selector": "div[role='button'][aria-label='Adult content']",
+      "name": "Noi dung nguoi lon"
+    },
+    "17": {
+      "selector": "div[role='button'][aria-label='Threatening to share my nude images']",
+      "name": "De hoa den hinh anh toi"
+    },
+    "18": {
+      "selector": "div[role='button'][aria-label='Seems like prostitution']",
+      "name": "Co dau hieu mai dam"
+    },
+    "19": {
+      "selector": "div[role='button'][aria-label='My nude images have been shared']",
+      "name": "Anh hoa than toi da bi chia se"
+    },
+    "20": {
+      "selector": "div[role='button'][aria-label='Suicide or self-harm']",
+      "name": "Tu tu lam hai ban than"
+    },
+    "21": {
+      "selector": "div[role='button'][aria-label='Suicide or self-injury']",
+      "name": "Tu tu hoac gay thuong tich"
+    }
+  }
+}
