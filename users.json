@@ -5,7 +5,7 @@
       "password": "admin123",
       "active": true,
       "expire": "2025-09-10T00:00:00Z",
-      "currentDeviceId": "dev-fpg5z932k6r"
+      "currentDeviceId": null
     },
     {
       "username": "htb1",
